@@ -1,6 +1,6 @@
 # GameOfLife
 Done for CIS 343
-2/12/18. 
+2/12/18
 Owen Dunn
 
 How to run:
